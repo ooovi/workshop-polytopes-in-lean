@@ -75,7 +75,7 @@ body {
   font-size: 3em;
   font-weight: 600;
   padding: 0.3em 1.5em;
-  background-color: rgba(0,0,0,0.9);
+  background-color: rgba(220,220,220,0.9);
   border: 1px solid #ccc;
   border-radius: 5px;
   color: #ccc;
@@ -102,7 +102,7 @@ div.highlight {
   width: 100%;
   font-size: 2em;
   font-weight: 600;
-  color: rgb(30,50,100);
+  color: rgb(0,0,0);
   text-align: center;
   margin: 1em 0;
 }
@@ -118,7 +118,7 @@ h2 {
 }
 
 a {
-  color: rgb(30,50,100);
+  color: rgb(0,0,0);
   font-weight: 600;
   text-decoration: none;
 }
