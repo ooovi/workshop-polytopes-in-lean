@@ -8,7 +8,7 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 
 ## Invited Experts
 
-* [Yael Dillies](https://www.su.se/english/profiles/y/yadi8568)
+* [Yaël Dillies](https://www.su.se/english/profiles/y/yadi8568)
 * [Justus Springer](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/justus-springer)
 * [Moritz Firsching](https://firsching.ch/)
 * [Kim Völlinger](https://www.tu.berlin/en/mtv/team/research-associates/dr-kim-voellinger)
@@ -37,4 +37,4 @@ There will be a setup session on the first day, but ideally you already come wit
 ## Funding
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/).
 
-![Math+](MATHPLUS-Logo-retina.png)
+<img src="MATHPLUS-Logo-retina.png" width="300"/>
