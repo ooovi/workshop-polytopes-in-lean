@@ -84,7 +84,7 @@ body {
   margin: 0 auto;
   padding-top: 1em;
   flex-grow: 1;
-  text-align: justify;
+  text-align: left;
 }
 
 #footer {
