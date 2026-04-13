@@ -133,7 +133,6 @@ div.side-by-side {
 @media only screen and (max-width: 768px) {
   /* Navigation becomes vertical */
   #header {
-    background-image: none;
     height: auto;
   }
 
