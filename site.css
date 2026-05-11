@@ -95,6 +95,11 @@ body {
   padding-bottom: 3px;
 }
 
+#logos {
+  display: flex;
+  align-items: center; max-width:500px; justify-content:space-between;
+}
+
 div.highlight {
   display: block;
   width: 100%;

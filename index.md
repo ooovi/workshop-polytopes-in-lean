@@ -37,5 +37,11 @@ There will be a setup session on the first day, but ideally you already come wit
 ## Funding
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).
 
-<img src="MATHPLUS-Logo-retina.png" width="300"/>
-<img src="BWM-farbig-typo-schwarz.svg" width="300"/>
+<div id="logos">
+  <p>
+    <img src="MATHPLUS-Logo-retina.png" width="300"/>
+  </p>
+  <p>
+    <img src="BWM-farbig-typo-schwarz.svg" width="300"/>
+  </p>
+</div>
